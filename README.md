@@ -45,13 +45,8 @@ plt.show()
 ```
 
 ## Output:
-8,2,11,6,5,4,12,9,6,1
-3,10,3,6,8,12,1,4,9,14
--1.1064189189189189 14.08108108108108
-[ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9.65540541
-  0.80405405  4.12331081  7.44256757 12.97466216] 
-  
-<img width="543" height="413" alt="375205912-4a58f9f9-ff60-4560-bd50-fcf04ac11298" src="https://github.com/user-attachments/assets/57a3e9fd-169d-40ad-b3c5-370c7379f04e" />
+<img width="973" height="812" alt="356939206-467f872b-4c8d-4ce1-b8c6-024896ed5df1" src="https://github.com/user-attachments/assets/716b413c-bd36-4f81-b1d5-05f86eb41963" />
+
 
 
 ## Result:
